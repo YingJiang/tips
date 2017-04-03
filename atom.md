@@ -20,11 +20,11 @@ Atom 插件
 1. atom-terminal-panel
 `atom内置命令行工具`
 1. Git/github
- * git-plus—在 Atom 里面执行 Git 命令，不用来回切换终端和编辑器
- * git-control—git面板
- * tree-view-git-status—文件夹git状态
- * gist-it—快速分享代码到gist.github.com
- * git-log 图形化git提交记录
+   * git-plus—在 Atom 里面执行 Git 命令，不用来回切换终端和编辑器
+   * git-control—git面板
+   * tree-view-git-status—文件夹git状态
+   * gist-it—快速分享代码到gist.github.com
+   * git-log 图形化git提交记录
 1. markdown
 `markdown-preview-plus—markdown预览`
 1. vim-mode
@@ -34,7 +34,7 @@ Atom 插件
 1. remote-edit
 `编辑机远程文件`
 1. browser-plus
-`编辑器内置浏览器 `
+`编辑器内置浏览器`
 1. ask-stack
 `在atom快速提问stackoverflow`
 1. regex-railroad-diagram
@@ -44,7 +44,7 @@ Atom 插件
 1. quick-highlight
 `代码高亮`
 1. platformio-ide-terminal
-`终端工具 `
+`终端工具`
 1. open-in-browsers
 `在安装过的任意浏览器打开代码`
 1. merge-conflicts
@@ -55,7 +55,6 @@ Atom 插件
 `填写路径的时候有提示`
 1. linter
 `代码校验工具(必备)`
-
 ```
 前端插件推荐
 ```
@@ -68,9 +67,9 @@ Atom 插件
 1. atom-html-preview
 `实时预览HTML页面`
 1. React
- * react—语法支持
- * atom-react-native-autocomplete—React Native代码补全
- * nuclide—facebook基于atom开发的进行React开发的IDE
+   * react—语法支持
+   * atom-react-native-autocomplete—React Native代码补全
+   * nuclide—facebook基于atom开发的进行React开发的IDE
 1. language-babel
 `支持JSX语法`
 1. atom-minify
@@ -98,10 +97,10 @@ php插件推荐
 1. php-cs-fixer
 `php语法检查`
 1. php跳转插件(类似其他编辑器的ctrl+click)
-`需要同时安装以下两个插件：`
- * goto
- * goto-definition
-`鼠标光标放置在要跳转的类下，按下快捷键ctrl-alt-enter即可使用`
+    `需要同时安装以下两个插件：`
+    * goto
+    * goto-definition
+      `鼠标光标放置在要跳转的类下，按下快捷键ctrl-alt-enter即可使用`
 1. php-debug
 `php debug`
 1. autocomplete-php
