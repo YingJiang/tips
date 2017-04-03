@@ -2,61 +2,59 @@
 Atom 插件
 ```
 1. simplified-chinese-menu
-```ATOM的汉化插件```
+`ATOM的汉化插件`
 1. file-icons
-```文件图标美化```
+`文件图标美化`
 1. atom-beautify
-```代码格式一键美化```
+`代码格式一键美化`
 1. last-cursor-position
-```光标自由切换到上一次/下一次编辑位置```
+`光标自由切换到上一次/下一次编辑位置`
 1. minimap
-```代码小地图```
+`代码小地图`
 1. sync-settings
-```插件备份、按键绑定备份```
+`插件备份、按键绑定备份`
 1. activate-power-mode
-```输入时有震撼效果```
+`输入时有震撼效果`
 1. tortoise-svn
-```svn插件```
+`svn插件`
 1. atom-terminal-panel
-```atom内置命令行工具```
+`atom内置命令行工具`
 1. Git/github
- ```
  * git-plus—在 Atom 里面执行 Git 命令，不用来回切换终端和编辑器
  * git-control—git面板
  * tree-view-git-status—文件夹git状态
  * gist-it—快速分享代码到gist.github.com
  * git-log 图形化git提交记录
- ```
 1. markdown
-```markdown-preview-plus—markdown预览```
+`markdown-preview-plus—markdown预览`
 1. vim-mode
-```支持vim模式```
+`支持vim模式`
 1. script
-```在atom下运行脚本，支持多种开发语言```
+`在atom下运行脚本，支持多种开发语言`
 1. remote-edit
-```编辑机远程文件```
+`编辑机远程文件`
 1. browser-plus
-```编辑器内置浏览器 ```
+`编辑器内置浏览器 `
 1. ask-stack
-```在atom快速提问stackoverflow```
+`在atom快速提问stackoverflow`
 1. regex-railroad-diagram
-```正则表达式图形化```
+`正则表达式图形化`
 1. advanced-open-file
-```快速的打开文件或新建文件，同时支持路径补全```
+`快速的打开文件或新建文件，同时支持路径补全`
 1. quick-highlight
-```代码高亮```
+`代码高亮`
 1. platformio-ide-terminal
-```终端工具 ```
+`终端工具 `
 1. open-in-browsers
-```在安装过的任意浏览器打开代码```
+`在安装过的任意浏览器打开代码`
 1. merge-conflicts
-```在 Atom 里面处理合并产生冲突的文件```
+`在 Atom 里面处理合并产生冲突的文件`
 1. linter
-```代码校验工具```
+`代码校验工具`
 1. autocomplete-paths
-```填写路径的时候有提示```
+`填写路径的时候有提示`
 1. linter
-```代码校验工具(必备)```
+`代码校验工具(必备)`
 
 ```
 前端插件推荐
