@@ -56,7 +56,7 @@ Atom 插件
 1. linter
 `代码校验工具(必备)`
 ```
-前端插件推荐
+FE
 ```
 1. emmet
 `加快web开发速度，提供snippet(代码片段)、abbreviation expand(简写展开)功能`
@@ -90,7 +90,7 @@ Atom 插件
 `less文件编译为css文件`
 
 ```
-php插件推荐
+Php
 ```
 1. php-class-tree
 `php类文件下函数展示`
@@ -107,7 +107,7 @@ php插件推荐
 `php代码自动补全`
 
 ```
-python插件推荐
+Python
 ```
 1. python-tools
 `Python跳转插件`
