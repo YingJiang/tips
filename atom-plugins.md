@@ -1,5 +1,5 @@
 ```
-Atom 插件
+Atom 插件 1
 ```
 1. simplified-chinese-menu
 `ATOM的汉化插件`
