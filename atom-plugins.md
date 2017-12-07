@@ -1,7 +1,7 @@
 ```
 
 
-Atom 插件 1 2 3 4
+Atom 插件 1 2 3 4 5 6 7
 
 ```
 1. simplified-chinese-menu
